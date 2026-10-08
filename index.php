@@ -17,7 +17,6 @@
 
     <nav>
     <a href="index.php" class="active">Waiting Display</a>
-    <a href="register.php">Register</a>
     <a href="login.php">Staff Login</a>
 </nav>
 </header>

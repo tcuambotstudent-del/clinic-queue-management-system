@@ -22,11 +22,11 @@ if (!isset($_SESSION['user_id'])) {
 
 
     <nav>
-        <a href="index.php">Waiting Display</a>
-        <a href="register.php">Register</a>
-        <a href="queue.php" class="active">Staff Queue</a>
-        <a href="history.php">History</a>
-    </nav>
+    <a href="queue.php" class="active">Staff Queue</a>
+    <a href="register.php">Register Patient</a>
+    <a href="history.php">History</a>
+    <a href="logout.php">Logout</a>
+</nav>
 </header>
 
 
